@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Vanessa Aquino 👋
 
 - 🫤 Atualmente estou desempregada.
-- 💻 Estudando análise e desenvolvimento de sistemas, e fazendo um bootcamp de HTML, CSS, Javascript, Java, Angular.
+- 💻 Estudando análise e desenvolvimento de sistemas, e fazendo um treinamento de programação fullstack.
 - 😉 Aceito dicas do mundo tec, pois estou em transição de carreira, querendo entrar no mercado de tecnologia.
 
 ### GitHub Stats
@@ -19,8 +19,6 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D19275?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vanessa-vieira-de-aquino-2343a3a8)
-
-[![Discord](https://img.shields.io/badge/Discord-FFFF00?style=for-the-badge&logo=discord)](https://www.discord.com/in/nessa0682/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ccffff?style=for-the-badge&logo=github&logoColor=000000)](https://www.github.com/Angelnessa/)
 
