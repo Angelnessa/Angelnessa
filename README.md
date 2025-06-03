@@ -1,7 +1,7 @@
-### Olá! Eu sou a Vanessa 👋
+# 👋 Oi, eu sou a Vanessa!
 
 🎯 Em transição de carreira para a área de **dados**  
-📊 Estudando: Python, SQL, Power BI, Git e GitHub, C# e .NET  
+📊 Estudando: Python, SQL, Power BI, Git e GitHub, C# e .NET 
 🛠️ Projetos práticos disponíveis aqui no perfil  
 🚀 Sempre em busca de novos aprendizados 
 
