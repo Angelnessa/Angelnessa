@@ -1,8 +1,9 @@
-### Olá! Eu sou a Vanessa Aquino 👋
+### Olá! Eu sou a Vanessa 👋
 
-- 🫤 Atualmente estou desempregada.
-- 💻 Estudando análise e desenvolvimento de sistemas, e fazendo um treinamento de programação fullstack.
-- 😉 Aceito dicas do mundo tec, pois estou em transição de carreira, querendo entrar no mercado de tecnologia.
+🎯 Em transição de carreira para a área de **dados**  
+📊 Estudando: Python, SQL, Power BI, Git e GitHub, C# e .NET  
+🛠️ Projetos práticos disponíveis aqui no perfil  
+🚀 Sempre em busca de novos aprendizados 
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelnessa&theme=transparent&bg_color=238e68&border_color=8e236b&show_icons=true&icon_color=ffcc00&title_color=993366&text_color=ff9900&hide_title=true)
@@ -20,7 +21,7 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D19275?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vanessa-vieira-de-aquino-2343a3a8)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ccffff?style=for-the-badge&logo=github&logoColor=000000)](https://www.github.com/Angelnessa/)
+
 
 
 
